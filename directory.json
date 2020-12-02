@@ -75,6 +75,7 @@
   "HTUGraz-ELab": "https://doorothy.htu.tugraz.at/doorothy/elab/status.spaceapi",
   "HTUGraz-Philab": "https://doorothy.htu.tugraz.at/doorothy/philab/status.spaceapi",
   "IT-Syndikat": "http://it-syndikat.org/api/status.php",
+  "Imaginärraum": "https://imaginaerraum.de/spaceapi.json",
   "K4CG": "http://spaceapi.k4cg.org/spaceapi.json",
   "Ko-Lab": "https://vloer.ko-lab.space/spaceapi.json",
   "Krautspace": "https://status.kraut.space/api",
